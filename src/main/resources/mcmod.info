@@ -3,7 +3,7 @@
   "modid": "norecipebook",
   "name": "No Recipe Book",
   "description": "Removes the Recipe Book button from the player inventory and crafting table GUI.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "mcversion": "[1.12,1.12.2]",
   "url": "",
   "updateUrl": "",
