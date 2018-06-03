@@ -26,7 +26,7 @@ public class EventHandler {
 				int button_id = button.id;
 				String resource_path = button_image.resourceLocation.getResourcePath();
 				
-				if (button_id == 10 || resource_path.equals(PATH0) || resource_path.equals(PATH1)) {
+				if (button_id == 10 && (resource_path.equals(PATH0) || resource_path.equals(PATH1))) {
 					button.visible = false;
 				}	
 			}
